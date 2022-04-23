@@ -36,3 +36,5 @@ yarn-error.log*
 pnpm-lock.yaml
 .pnpm-debug.log
 .tool-versions
+
+test-results/

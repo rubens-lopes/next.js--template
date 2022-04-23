@@ -12,6 +12,7 @@ export default function Home() {
       </Head>
       <div className={styles.forms}>
         <LogoSvg width={128} height={128} />
+        <h1>Peladeiros</h1>
         <Image alt="a goalkeeper doing its job" src="/images/goalkeeper.png" width={256} height={256} />
       </div>
     </main>
