@@ -1,3 +1,5 @@
+jest.mock(`&/svgs/logo.svg`, () => `logo.svg`)
+
 import { render, screen } from '@testing-library/react'
 import Home from '&/pages/index'
 
